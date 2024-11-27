@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:willow_biomemakeover_raw_table_log"
+  }
+}

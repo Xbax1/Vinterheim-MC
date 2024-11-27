@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:whitewash_swem_table_basic"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_fence"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ancient_oak_biomemakeover_magenta_classic_bed"
+  }
+}

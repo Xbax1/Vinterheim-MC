@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:willow_biomemakeover_classic_nightstand"
+  }
+}

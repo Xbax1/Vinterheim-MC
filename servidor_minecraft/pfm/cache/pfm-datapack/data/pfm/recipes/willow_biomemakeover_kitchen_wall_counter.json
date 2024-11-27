@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:willow_biomemakeover_kitchen_wall_counter"
+  }
+}

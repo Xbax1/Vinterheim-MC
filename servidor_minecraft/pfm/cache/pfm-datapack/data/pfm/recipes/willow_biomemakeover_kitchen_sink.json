@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_biomemakeover_kitchen_sink"
+  }
+}

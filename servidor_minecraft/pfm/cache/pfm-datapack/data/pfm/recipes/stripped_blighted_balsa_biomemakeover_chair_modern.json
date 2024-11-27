@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    },
+    {
+      "item": "biomemakeover:stripped_blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:stripped_blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:stripped_blighted_balsa_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_blighted_balsa_biomemakeover_chair_modern"
+  }
+}

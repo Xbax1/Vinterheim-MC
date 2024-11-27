@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:stripped_ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:stripped_ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:stripped_ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:stripped_ancient_oak_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ancient_oak_biomemakeover_chair"
+  }
+}

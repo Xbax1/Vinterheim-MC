@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:swamp_cypress_biomemakeover_white_simple_bed"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_oak_biomemakeover_classic_nightstand"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:whitewash_swem_kitchen_wall_small_drawer"
+  }
+}

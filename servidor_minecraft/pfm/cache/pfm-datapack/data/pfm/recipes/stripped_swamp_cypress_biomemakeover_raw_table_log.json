@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomemakeover:stripped_swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:stripped_swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:stripped_swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:stripped_swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:stripped_swamp_cypress_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_swamp_cypress_biomemakeover_raw_table_log"
+  }
+}

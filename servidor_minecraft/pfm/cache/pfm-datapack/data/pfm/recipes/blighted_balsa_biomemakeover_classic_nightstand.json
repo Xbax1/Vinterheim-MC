@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blighted_balsa_biomemakeover_classic_nightstand"
+  }
+}

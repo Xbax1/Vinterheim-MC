@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    },
+    {
+      "item": "swem:whitewash_fence"
+    },
+    {
+      "item": "swem:whitewash_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:whitewash_swem_purple_classic_bed"
+  }
+}

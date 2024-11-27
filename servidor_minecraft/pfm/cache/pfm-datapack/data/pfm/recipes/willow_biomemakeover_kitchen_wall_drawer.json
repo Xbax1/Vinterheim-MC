@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "biomemakeover:willow_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_biomemakeover_kitchen_wall_drawer"
+  }
+}

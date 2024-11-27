@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:whitewash_swem_classic_nightstand"
+  }
+}

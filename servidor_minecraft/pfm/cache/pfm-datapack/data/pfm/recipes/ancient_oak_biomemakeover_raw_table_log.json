@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_oak_biomemakeover_raw_table_log"
+  }
+}

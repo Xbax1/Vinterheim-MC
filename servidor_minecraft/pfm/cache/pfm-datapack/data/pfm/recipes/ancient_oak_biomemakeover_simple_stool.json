@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_oak_biomemakeover_simple_stool"
+  }
+}

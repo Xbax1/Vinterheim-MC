@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blighted_balsa_biomemakeover_raw_table_log"
+  }
+}

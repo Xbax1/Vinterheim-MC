@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_log"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "swem:whitewash_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:whitewash_swem_kitchen_drawer"
+  }
+}

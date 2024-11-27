@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomemakeover:swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_log"
+    },
+    {
+      "item": "biomemakeover:swamp_cypress_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:swamp_cypress_biomemakeover_kitchen_wall_small_drawer"
+  }
+}

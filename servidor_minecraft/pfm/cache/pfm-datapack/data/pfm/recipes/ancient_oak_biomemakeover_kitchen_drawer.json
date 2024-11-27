@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ancient_oak_biomemakeover_kitchen_drawer"
+  }
+}

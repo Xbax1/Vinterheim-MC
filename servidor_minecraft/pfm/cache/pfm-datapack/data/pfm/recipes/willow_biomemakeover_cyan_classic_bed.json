@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "biomemakeover:willow_fence"
+    },
+    {
+      "item": "biomemakeover:willow_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_biomemakeover_cyan_classic_bed"
+  }
+}

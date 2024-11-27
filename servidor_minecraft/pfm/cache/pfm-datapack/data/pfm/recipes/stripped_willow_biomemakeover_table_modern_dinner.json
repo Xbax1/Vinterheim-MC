@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:willow_planks"
+    },
+    {
+      "item": "biomemakeover:stripped_willow_log"
+    },
+    {
+      "item": "biomemakeover:stripped_willow_log"
+    },
+    {
+      "item": "biomemakeover:stripped_willow_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_willow_biomemakeover_table_modern_dinner"
+  }
+}
