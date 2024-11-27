@@ -6292,3 +6292,304 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Nov2024 20:31:23.728] [Server thread/INFO] [do_a_barrel_roll/]: Client of Xbax1 accepted server config.
 [27Nov2024 20:34:08.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xbax1 lost connection: Disconnected
 [27Nov2024 20:34:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 left the game
+[27Nov2024 20:42:16.028] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[27Nov2024 20:42:16.029] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_hollow_oak_sapling_to_robust_twilight_oak_seed removed now.
+[27Nov2024 20:42:16.029] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[27Nov2024 20:42:16.029] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[27Nov2024 20:42:16.029] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:robust_twilight_oak_seed_to_twilightforest_hollow_oak_sapling removed now.
+[27Nov2024 20:42:16.029] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilight_oak_seed_to_twilightforest_twilight_oak_sapling removed now.
+[27Nov2024 20:42:16.030] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:rainbow_oak_seed_to_twilightforest_rainbow_oak_sapling removed now.
+[27Nov2024 20:42:16.030] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_purple_archwood_sapling_to_purple_archwood_seed removed now.
+[27Nov2024 20:42:16.030] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_cherry_sapling_to_cherry_seed removed now.
+[27Nov2024 20:42:16.031] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[27Nov2024 20:42:16.031] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_sorting_sapling_to_sorting_seed removed now.
+[27Nov2024 20:42:16.031] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[27Nov2024 20:42:16.031] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:red_archwood_seed_to_ars_nouveau_red_archwood_sapling removed now.
+[27Nov2024 20:42:16.032] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_time_sapling_to_time_seed removed now.
+[27Nov2024 20:42:16.033] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[27Nov2024 20:42:16.033] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_mendosteen_pod_to_green_archwood_seed removed now.
+[27Nov2024 20:42:16.034] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_canopy_sapling_to_canopy_seed removed now.
+[27Nov2024 20:42:16.034] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_green_archwood_sapling_to_green_archwood_seed removed now.
+[27Nov2024 20:42:16.034] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:canopy_seed_to_twilightforest_canopy_sapling removed now.
+[27Nov2024 20:42:16.034] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[27Nov2024 20:42:16.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:purple_archwood_seed_to_ars_nouveau_purple_archwood_sapling removed now.
+[27Nov2024 20:42:16.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[27Nov2024 20:42:16.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_red_archwood_sapling_to_red_archwood_seed removed now.
+[27Nov2024 20:42:16.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bombegranate_pod_to_red_archwood_seed removed now.
+[27Nov2024 20:42:16.036] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_mahogany_sapling_to_mahogany_seed removed now.
+[27Nov2024 20:42:16.037] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[27Nov2024 20:42:16.037] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:witch_hazel_seed_to_hexerei_witch_hazel_sapling removed now.
+[27Nov2024 20:42:16.038] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mining_sapling_to_mining_seed removed now.
+[27Nov2024 20:42:16.038] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[27Nov2024 20:42:16.039] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_rainbow_oak_sapling_to_rainbow_oak_seed removed now.
+[27Nov2024 20:42:16.039] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mining_seed_to_twilightforest_mining_sapling removed now.
+[27Nov2024 20:42:16.039] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:transformation_seed_to_twilightforest_transformation_sapling removed now.
+[27Nov2024 20:42:16.040] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mangrove_seed_to_twilightforest_mangrove_sapling removed now.
+[27Nov2024 20:42:16.041] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_frostaya_pod_to_blue_archwood_seed removed now.
+[27Nov2024 20:42:16.041] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[27Nov2024 20:42:16.041] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mangrove_sapling_to_mangrove_seed removed now.
+[27Nov2024 20:42:16.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_transformation_sapling_to_transformation_seed removed now.
+[27Nov2024 20:42:16.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:blue_archwood_seed_to_ars_nouveau_blue_archwood_sapling removed now.
+[27Nov2024 20:42:16.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[27Nov2024 20:42:16.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_blue_archwood_sapling_to_blue_archwood_seed removed now.
+[27Nov2024 20:42:16.043] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:willow_seed_to_hexerei_willow_sapling removed now.
+[27Nov2024 20:42:16.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[27Nov2024 20:42:16.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bastion_pod_to_purple_archwood_seed removed now.
+[27Nov2024 20:42:16.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_witch_hazel_sapling_to_witch_hazel_seed removed now.
+[27Nov2024 20:42:16.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[27Nov2024 20:42:16.045] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[27Nov2024 20:42:16.046] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_willow_sapling_to_willow_seed removed now.
+[27Nov2024 20:42:16.046] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:cherry_seed_to_minecraft_cherry_sapling removed now.
+[27Nov2024 20:42:16.046] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[27Nov2024 20:42:16.047] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:green_archwood_seed_to_ars_nouveau_green_archwood_sapling removed now.
+[27Nov2024 20:42:16.047] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[27Nov2024 20:42:16.047] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_darkwood_sapling_to_darkwood_seed removed now.
+[27Nov2024 20:42:16.047] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[27Nov2024 20:42:16.048] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:sorting_seed_to_twilightforest_sorting_sapling removed now.
+[27Nov2024 20:42:16.048] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:mahogany_seed_to_hexerei_mahogany_sapling removed now.
+[27Nov2024 20:42:16.048] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:42:16.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:time_seed_to_twilightforest_time_sapling removed now.
+[27Nov2024 20:42:16.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[27Nov2024 20:42:16.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[27Nov2024 20:42:16.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:tall_dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:42:16.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:darkwood_seed_to_twilightforest_darkwood_sapling removed now.
+[27Nov2024 20:42:16.050] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:minecraft_dark_oak_sapling_to_tall_dark_oak_seed removed now.
+[27Nov2024 20:42:16.050] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[27Nov2024 20:42:16.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[27Nov2024 20:42:16.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_twilight_oak_sapling_to_twilight_oak_seed removed now.
+[27Nov2024 20:42:16.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Nov2024 20:42:16.053] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[27Nov2024 20:42:16.053] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_hollow_oak_sapling_to_robust_twilight_oak_seed removed now.
+[27Nov2024 20:42:16.054] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[27Nov2024 20:42:16.055] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[27Nov2024 20:42:16.055] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:robust_twilight_oak_seed_to_twilightforest_hollow_oak_sapling removed now.
+[27Nov2024 20:42:16.056] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilight_oak_seed_to_twilightforest_twilight_oak_sapling removed now.
+[27Nov2024 20:42:16.056] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:rainbow_oak_seed_to_twilightforest_rainbow_oak_sapling removed now.
+[27Nov2024 20:42:16.056] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_purple_archwood_sapling_to_purple_archwood_seed removed now.
+[27Nov2024 20:42:16.057] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_cherry_sapling_to_cherry_seed removed now.
+[27Nov2024 20:42:16.057] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[27Nov2024 20:42:16.057] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_sorting_sapling_to_sorting_seed removed now.
+[27Nov2024 20:42:16.058] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[27Nov2024 20:42:16.058] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:red_archwood_seed_to_ars_nouveau_red_archwood_sapling removed now.
+[27Nov2024 20:42:16.059] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_time_sapling_to_time_seed removed now.
+[27Nov2024 20:42:16.059] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[27Nov2024 20:42:16.060] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_mendosteen_pod_to_green_archwood_seed removed now.
+[27Nov2024 20:42:16.060] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_canopy_sapling_to_canopy_seed removed now.
+[27Nov2024 20:42:16.060] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_green_archwood_sapling_to_green_archwood_seed removed now.
+[27Nov2024 20:42:16.060] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:canopy_seed_to_twilightforest_canopy_sapling removed now.
+[27Nov2024 20:42:16.061] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[27Nov2024 20:42:16.061] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:purple_archwood_seed_to_ars_nouveau_purple_archwood_sapling removed now.
+[27Nov2024 20:42:16.061] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[27Nov2024 20:42:16.061] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_red_archwood_sapling_to_red_archwood_seed removed now.
+[27Nov2024 20:42:16.061] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bombegranate_pod_to_red_archwood_seed removed now.
+[27Nov2024 20:42:16.062] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_mahogany_sapling_to_mahogany_seed removed now.
+[27Nov2024 20:42:16.064] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[27Nov2024 20:42:16.064] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:witch_hazel_seed_to_hexerei_witch_hazel_sapling removed now.
+[27Nov2024 20:42:16.065] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mining_sapling_to_mining_seed removed now.
+[27Nov2024 20:42:16.065] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[27Nov2024 20:42:16.065] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_rainbow_oak_sapling_to_rainbow_oak_seed removed now.
+[27Nov2024 20:42:16.066] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mining_seed_to_twilightforest_mining_sapling removed now.
+[27Nov2024 20:42:16.066] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:transformation_seed_to_twilightforest_transformation_sapling removed now.
+[27Nov2024 20:42:16.066] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mangrove_seed_to_twilightforest_mangrove_sapling removed now.
+[27Nov2024 20:42:16.067] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_frostaya_pod_to_blue_archwood_seed removed now.
+[27Nov2024 20:42:16.067] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[27Nov2024 20:42:16.068] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mangrove_sapling_to_mangrove_seed removed now.
+[27Nov2024 20:42:16.068] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_transformation_sapling_to_transformation_seed removed now.
+[27Nov2024 20:42:16.069] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:blue_archwood_seed_to_ars_nouveau_blue_archwood_sapling removed now.
+[27Nov2024 20:42:16.069] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[27Nov2024 20:42:16.069] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_blue_archwood_sapling_to_blue_archwood_seed removed now.
+[27Nov2024 20:42:16.069] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:willow_seed_to_hexerei_willow_sapling removed now.
+[27Nov2024 20:42:16.070] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[27Nov2024 20:42:16.070] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bastion_pod_to_purple_archwood_seed removed now.
+[27Nov2024 20:42:16.071] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_witch_hazel_sapling_to_witch_hazel_seed removed now.
+[27Nov2024 20:42:16.071] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[27Nov2024 20:42:16.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[27Nov2024 20:42:16.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_willow_sapling_to_willow_seed removed now.
+[27Nov2024 20:42:16.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:cherry_seed_to_minecraft_cherry_sapling removed now.
+[27Nov2024 20:42:16.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[27Nov2024 20:42:16.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:green_archwood_seed_to_ars_nouveau_green_archwood_sapling removed now.
+[27Nov2024 20:42:16.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[27Nov2024 20:42:16.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_darkwood_sapling_to_darkwood_seed removed now.
+[27Nov2024 20:42:16.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[27Nov2024 20:42:16.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:sorting_seed_to_twilightforest_sorting_sapling removed now.
+[27Nov2024 20:42:16.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:mahogany_seed_to_hexerei_mahogany_sapling removed now.
+[27Nov2024 20:42:16.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:42:16.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:time_seed_to_twilightforest_time_sapling removed now.
+[27Nov2024 20:42:16.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[27Nov2024 20:42:16.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[27Nov2024 20:42:16.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:tall_dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:42:16.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:darkwood_seed_to_twilightforest_darkwood_sapling removed now.
+[27Nov2024 20:42:16.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:minecraft_dark_oak_sapling_to_tall_dark_oak_seed removed now.
+[27Nov2024 20:42:16.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[27Nov2024 20:42:16.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[27Nov2024 20:42:16.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_twilight_oak_sapling_to_twilight_oak_seed removed now.
+[27Nov2024 20:42:16.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Nov2024 20:42:16.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xbax1[/100.114.95.99:64387] logged in with entity id 4603 at (406.305663887297, 68.0, -852.088561056419)
+[27Nov2024 20:42:16.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xbax1
+[27Nov2024 20:42:16.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xbax1
+[27Nov2024 20:42:16.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xbax1
+[27Nov2024 20:42:16.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xbax1
+[27Nov2024 20:42:16.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xbax1
+[27Nov2024 20:42:16.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xbax1
+[27Nov2024 20:42:16.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xbax1
+[27Nov2024 20:42:16.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 joined the game
+[27Nov2024 20:42:16.225] [Server thread/INFO] [Jade/]: Syncing config to Xbax1 (3ad2885b-5512-30c7-be43-ad8d902f65e7)
+[27Nov2024 20:42:31.571] [Server thread/INFO] [do_a_barrel_roll/]: Client of Xbax1 accepted server config.
+[27Nov2024 20:44:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 has made the advancement [Monster Hunter]
+[27Nov2024 20:44:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 has completed the challenge [Champion Hunter]
+[27Nov2024 20:44:43.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/5868, l='ServerLevel[world]', x=240.50, y=22.00, z=-937.50]
+[27Nov2024 20:44:43.561] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/5869, l='ServerLevel[world]', x=242.50, y=22.00, z=-936.50]
+[27Nov2024 20:44:43.561] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/5870, l='ServerLevel[world]', x=240.50, y=22.00, z=-934.50]
+[27Nov2024 20:44:58.601] [Worker-Main-26/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[27Nov2024 20:44:58.602] [Worker-Main-26/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.minecolonies.core.blocks.huts.BlockHutTownHall cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[27Nov2024 20:45:10.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 was shot by Undead Knight
+[27Nov2024 20:45:10.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 has made the advancement [Your First Grave]
+[27Nov2024 20:45:10.726] [Server thread/INFO] [tombstone/]: The player Xbax1 has successfully been saved
+[27Nov2024 20:45:12.445] [Server thread/INFO] [do_a_barrel_roll/]: Client of Xbax1 accepted server config.
+[27Nov2024 20:45:43.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xbax1 lost connection: Disconnected
+[27Nov2024 20:45:43.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 left the game
+[27Nov2024 20:49:02.473] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[27Nov2024 20:49:02.474] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_hollow_oak_sapling_to_robust_twilight_oak_seed removed now.
+[27Nov2024 20:49:02.474] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[27Nov2024 20:49:02.474] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[27Nov2024 20:49:02.475] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:robust_twilight_oak_seed_to_twilightforest_hollow_oak_sapling removed now.
+[27Nov2024 20:49:02.475] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilight_oak_seed_to_twilightforest_twilight_oak_sapling removed now.
+[27Nov2024 20:49:02.475] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:rainbow_oak_seed_to_twilightforest_rainbow_oak_sapling removed now.
+[27Nov2024 20:49:02.475] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_purple_archwood_sapling_to_purple_archwood_seed removed now.
+[27Nov2024 20:49:02.476] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_cherry_sapling_to_cherry_seed removed now.
+[27Nov2024 20:49:02.476] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[27Nov2024 20:49:02.476] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_sorting_sapling_to_sorting_seed removed now.
+[27Nov2024 20:49:02.476] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[27Nov2024 20:49:02.477] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:red_archwood_seed_to_ars_nouveau_red_archwood_sapling removed now.
+[27Nov2024 20:49:02.477] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_time_sapling_to_time_seed removed now.
+[27Nov2024 20:49:02.478] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[27Nov2024 20:49:02.478] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_mendosteen_pod_to_green_archwood_seed removed now.
+[27Nov2024 20:49:02.479] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_canopy_sapling_to_canopy_seed removed now.
+[27Nov2024 20:49:02.479] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_green_archwood_sapling_to_green_archwood_seed removed now.
+[27Nov2024 20:49:02.479] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:canopy_seed_to_twilightforest_canopy_sapling removed now.
+[27Nov2024 20:49:02.480] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[27Nov2024 20:49:02.480] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:purple_archwood_seed_to_ars_nouveau_purple_archwood_sapling removed now.
+[27Nov2024 20:49:02.480] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[27Nov2024 20:49:02.480] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_red_archwood_sapling_to_red_archwood_seed removed now.
+[27Nov2024 20:49:02.480] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bombegranate_pod_to_red_archwood_seed removed now.
+[27Nov2024 20:49:02.481] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_mahogany_sapling_to_mahogany_seed removed now.
+[27Nov2024 20:49:02.482] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[27Nov2024 20:49:02.482] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:witch_hazel_seed_to_hexerei_witch_hazel_sapling removed now.
+[27Nov2024 20:49:02.483] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mining_sapling_to_mining_seed removed now.
+[27Nov2024 20:49:02.483] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[27Nov2024 20:49:02.483] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_rainbow_oak_sapling_to_rainbow_oak_seed removed now.
+[27Nov2024 20:49:02.484] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mining_seed_to_twilightforest_mining_sapling removed now.
+[27Nov2024 20:49:02.484] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:transformation_seed_to_twilightforest_transformation_sapling removed now.
+[27Nov2024 20:49:02.484] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mangrove_seed_to_twilightforest_mangrove_sapling removed now.
+[27Nov2024 20:49:02.485] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_frostaya_pod_to_blue_archwood_seed removed now.
+[27Nov2024 20:49:02.486] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[27Nov2024 20:49:02.486] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mangrove_sapling_to_mangrove_seed removed now.
+[27Nov2024 20:49:02.486] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_transformation_sapling_to_transformation_seed removed now.
+[27Nov2024 20:49:02.486] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:blue_archwood_seed_to_ars_nouveau_blue_archwood_sapling removed now.
+[27Nov2024 20:49:02.487] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[27Nov2024 20:49:02.487] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_blue_archwood_sapling_to_blue_archwood_seed removed now.
+[27Nov2024 20:49:02.487] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:willow_seed_to_hexerei_willow_sapling removed now.
+[27Nov2024 20:49:02.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[27Nov2024 20:49:02.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bastion_pod_to_purple_archwood_seed removed now.
+[27Nov2024 20:49:02.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_witch_hazel_sapling_to_witch_hazel_seed removed now.
+[27Nov2024 20:49:02.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[27Nov2024 20:49:02.489] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[27Nov2024 20:49:02.490] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_willow_sapling_to_willow_seed removed now.
+[27Nov2024 20:49:02.490] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:cherry_seed_to_minecraft_cherry_sapling removed now.
+[27Nov2024 20:49:02.490] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[27Nov2024 20:49:02.490] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:green_archwood_seed_to_ars_nouveau_green_archwood_sapling removed now.
+[27Nov2024 20:49:02.490] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[27Nov2024 20:49:02.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_darkwood_sapling_to_darkwood_seed removed now.
+[27Nov2024 20:49:02.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[27Nov2024 20:49:02.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:sorting_seed_to_twilightforest_sorting_sapling removed now.
+[27Nov2024 20:49:02.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:mahogany_seed_to_hexerei_mahogany_sapling removed now.
+[27Nov2024 20:49:02.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:49:02.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:time_seed_to_twilightforest_time_sapling removed now.
+[27Nov2024 20:49:02.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[27Nov2024 20:49:02.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[27Nov2024 20:49:02.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:tall_dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:49:02.493] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:darkwood_seed_to_twilightforest_darkwood_sapling removed now.
+[27Nov2024 20:49:02.493] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:minecraft_dark_oak_sapling_to_tall_dark_oak_seed removed now.
+[27Nov2024 20:49:02.493] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[27Nov2024 20:49:02.494] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[27Nov2024 20:49:02.494] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_twilight_oak_sapling_to_twilight_oak_seed removed now.
+[27Nov2024 20:49:02.494] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Nov2024 20:49:02.494] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_hollow_oak_sapling_to_robust_twilight_oak_seed removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:robust_twilight_oak_seed_to_twilightforest_hollow_oak_sapling removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilight_oak_seed_to_twilightforest_twilight_oak_sapling removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:rainbow_oak_seed_to_twilightforest_rainbow_oak_sapling removed now.
+[27Nov2024 20:49:02.495] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_purple_archwood_sapling_to_purple_archwood_seed removed now.
+[27Nov2024 20:49:02.496] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_cherry_sapling_to_cherry_seed removed now.
+[27Nov2024 20:49:02.496] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[27Nov2024 20:49:02.496] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_sorting_sapling_to_sorting_seed removed now.
+[27Nov2024 20:49:02.496] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[27Nov2024 20:49:02.497] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:red_archwood_seed_to_ars_nouveau_red_archwood_sapling removed now.
+[27Nov2024 20:49:02.497] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_time_sapling_to_time_seed removed now.
+[27Nov2024 20:49:02.498] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[27Nov2024 20:49:02.498] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_mendosteen_pod_to_green_archwood_seed removed now.
+[27Nov2024 20:49:02.498] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_canopy_sapling_to_canopy_seed removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_green_archwood_sapling_to_green_archwood_seed removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:canopy_seed_to_twilightforest_canopy_sapling removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:purple_archwood_seed_to_ars_nouveau_purple_archwood_sapling removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[27Nov2024 20:49:02.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_red_archwood_sapling_to_red_archwood_seed removed now.
+[27Nov2024 20:49:02.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bombegranate_pod_to_red_archwood_seed removed now.
+[27Nov2024 20:49:02.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_mahogany_sapling_to_mahogany_seed removed now.
+[27Nov2024 20:49:02.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[27Nov2024 20:49:02.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:witch_hazel_seed_to_hexerei_witch_hazel_sapling removed now.
+[27Nov2024 20:49:02.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mining_sapling_to_mining_seed removed now.
+[27Nov2024 20:49:02.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[27Nov2024 20:49:02.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_rainbow_oak_sapling_to_rainbow_oak_seed removed now.
+[27Nov2024 20:49:02.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mining_seed_to_twilightforest_mining_sapling removed now.
+[27Nov2024 20:49:02.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:transformation_seed_to_twilightforest_transformation_sapling removed now.
+[27Nov2024 20:49:02.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:mangrove_seed_to_twilightforest_mangrove_sapling removed now.
+[27Nov2024 20:49:02.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_frostaya_pod_to_blue_archwood_seed removed now.
+[27Nov2024 20:49:02.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[27Nov2024 20:49:02.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_mangrove_sapling_to_mangrove_seed removed now.
+[27Nov2024 20:49:02.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_transformation_sapling_to_transformation_seed removed now.
+[27Nov2024 20:49:02.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:blue_archwood_seed_to_ars_nouveau_blue_archwood_sapling removed now.
+[27Nov2024 20:49:02.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[27Nov2024 20:49:02.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_blue_archwood_sapling_to_blue_archwood_seed removed now.
+[27Nov2024 20:49:02.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:willow_seed_to_hexerei_willow_sapling removed now.
+[27Nov2024 20:49:02.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[27Nov2024 20:49:02.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:ars_nouveau_bastion_pod_to_purple_archwood_seed removed now.
+[27Nov2024 20:49:02.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_witch_hazel_sapling_to_witch_hazel_seed removed now.
+[27Nov2024 20:49:02.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[27Nov2024 20:49:02.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[27Nov2024 20:49:02.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:hexerei_willow_sapling_to_willow_seed removed now.
+[27Nov2024 20:49:02.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:cherry_seed_to_minecraft_cherry_sapling removed now.
+[27Nov2024 20:49:02.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[27Nov2024 20:49:02.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtarsnouveau:green_archwood_seed_to_ars_nouveau_green_archwood_sapling removed now.
+[27Nov2024 20:49:02.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[27Nov2024 20:49:02.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_darkwood_sapling_to_darkwood_seed removed now.
+[27Nov2024 20:49:02.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[27Nov2024 20:49:02.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:sorting_seed_to_twilightforest_sorting_sapling removed now.
+[27Nov2024 20:49:02.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dthexerei:mahogany_seed_to_hexerei_mahogany_sapling removed now.
+[27Nov2024 20:49:02.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:49:02.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:time_seed_to_twilightforest_time_sapling removed now.
+[27Nov2024 20:49:02.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[27Nov2024 20:49:02.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[27Nov2024 20:49:02.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:tall_dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[27Nov2024 20:49:02.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:darkwood_seed_to_twilightforest_darkwood_sapling removed now.
+[27Nov2024 20:49:02.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtterralith:minecraft_dark_oak_sapling_to_tall_dark_oak_seed removed now.
+[27Nov2024 20:49:02.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[27Nov2024 20:49:02.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[27Nov2024 20:49:02.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttwilightforest:twilightforest_twilight_oak_sapling_to_twilight_oak_seed removed now.
+[27Nov2024 20:49:02.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Nov2024 20:49:02.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xbax1[/100.114.95.99:64698] logged in with entity id 7010 at (197.30000001192093, 71.0, -495.62137379141103)
+[27Nov2024 20:49:02.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xbax1
+[27Nov2024 20:49:02.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xbax1
+[27Nov2024 20:49:02.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xbax1
+[27Nov2024 20:49:02.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xbax1
+[27Nov2024 20:49:02.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xbax1
+[27Nov2024 20:49:02.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xbax1
+[27Nov2024 20:49:02.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xbax1
+[27Nov2024 20:49:02.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 joined the game
+[27Nov2024 20:49:02.684] [Server thread/INFO] [Jade/]: Syncing config to Xbax1 (3ad2885b-5512-30c7-be43-ad8d902f65e7)
+[27Nov2024 20:50:32.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xbax1 lost connection: Timed out
+[27Nov2024 20:50:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbax1 left the game
+[27Nov2024 20:50:32.703] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
